@@ -4,7 +4,18 @@
 @import url(diet.css);
 
 header{
-    text-align: center;
+	text-align: center;
+}
+
+h1{
+	font-family: Comic Sans MS;
+	font-size: 80px;
+	color:greenyellow
+}
+
+.header__sub{
+	font-family: Comic Sans MS;
+	font-size: 20px;
 }
 
 main{
