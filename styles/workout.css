@@ -1,3 +1,20 @@
 .workouts__container{
     border: 2px solid black;
 }
+
+.reviews__container {
+    margin-bottom: 2em;
+}
+
+dt {
+    background-color: lime;
+}
+
+dd {
+    background-color: red;
+}
+
+.header__testimonials {
+    text-align: right;
+    color: darkorchid;
+}
