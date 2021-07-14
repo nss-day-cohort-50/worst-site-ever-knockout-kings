@@ -1,3 +1,16 @@
 .workouts__container{
     border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F5uwCsktwOPWo95t9Uv%2Fgiphy.gif&f=1&nofb=1);
+    background-size: cover;
+    color: white;
+}
+
+.workout__header {
+    font: 40px bold;
+}
+
+.workouts__container p {
+    background: rgb(38, 38, 38, 0.6);
 }
