@@ -1,0 +1,13 @@
+.description__container{
+    display: flex;
+    flex-direction: column;
+}
+.description__male__container{
+    display: flex;
+}
+.description__female__container{
+    display: flex;
+}
+.description__img img{
+    width: 100%;
+}
