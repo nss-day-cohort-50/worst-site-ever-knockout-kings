@@ -1,3 +1,18 @@
 .reviews__container{
     border: 2px solid green;
 }
+
+
+dt {
+    background-color: lime;
+}
+
+dd {
+    background-color: red;
+}
+
+.header__testimonials {
+    font-size: 10px;
+    text-align: right;
+    color: darkorchid;
+}
