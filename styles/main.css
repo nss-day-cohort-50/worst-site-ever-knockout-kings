@@ -1,1 +1,16 @@
 @import url(description.css);
+@import url(workout.css);
+@import url(testimonies.css);
+@import url(diet.css);
+
+header{
+    text-align: center;
+}
+
+main{
+    display: flex;
+}
+
+.left__container, .right__container{
+    margin: 10px;
+}
